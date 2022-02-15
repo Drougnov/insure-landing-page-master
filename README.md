@@ -1,6 +1,6 @@
 # Frontend Mentor - Insure Landing Page
 
-![Design preview for Insure landing page](./design/desktop-design-dark.jpg)
+![Design preview for Insure landing page](./design/desktop-design.jpg)
 
 ## Welcome! 👋
 
